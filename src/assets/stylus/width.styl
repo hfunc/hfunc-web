@@ -1,0 +1,23 @@
+
+width(size)
+  width size
+
+height(size)
+  height size
+
+.height-200px
+  height(200px)
+
+list = range(10,100,10)
+
+for row in list
+  un = row == auto ? : 'per'
+  realUn =  row == auto ? : '%'
+  dot = replace('\.','_',s('%s',row))
+  size = ('%s%s'%(row unquote(realUn)))
+
+  .width-{dot}{un}
+    width(size)
+
+  .height-{dot}{un}
+    height(size)
