@@ -1,0 +1,1 @@
+import{a as e}from"./useBreadcrumb.e197fe46.js";import{d as a,H as s,o as t,c as r}from"./vendor.a8dd9754.js";var d=a({expose:[],setup(a){const{setVisible:d,push:o,refresh:p}=e();return s((()=>{o({path:"detail",title:"deatil"})})),(e,a)=>(t(),r("span",null,"| content"))}});d.__scopeId="data-v-7a64d8c3";export default d;
