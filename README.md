@@ -1,11 +1,9 @@
-# hnit-acm-web-v2
+# HiOJ
 
 Language: TypeScript,Pug,Stylus
 
 Framework: Vue3,ElementUI+,Axios
 
-Docker container
-name: [hnitacm/hnit-acm-web-v2:latest](https://hub.docker.com/repository/docker/hnitacm/hnit-acm-web-v2)
 
 Status:
 
